@@ -119,7 +119,7 @@ public class InheritanceTest3 {
 // 학생1.몸무게 = 70.0;
 // 학생1.학년 = 1;
 // 학생1.전공 = "정보시스템공학과";
-
+/*
 // 학생 2
 		Student 학생2 = new Student();
 		학생2.이름 = "남나눔";
@@ -165,6 +165,6 @@ public class InheritanceTest3 {
 		System.out.println("===== 직원 정보 =====");
 		System.out.println(직원1.이름 + " " + 직원1.나이 + " " + 직원1.키 + " " + 직원1.몸무게 + " " + 직원1.급여 + " " + 직원1.부서);
 		System.out.println(직원2.이름 + " " + 직원2.나이 + " " + 직원2.키 + " " + 직원2.몸무게 + " " + 직원2.급여 + " " + 직원2.부서);
-
+*/
 	}
 }
